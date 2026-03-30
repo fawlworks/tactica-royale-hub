@@ -42,7 +42,7 @@ Este proyecto ha sido desarrollado con un enfoque **Vanilla & Performance First*
 4.  Selecciona tu Líder, Rivales, Tropas y tu Posición final.
 5.  ¡Guarda y deja que el **Big Data** te diga cómo mejorar!
 
-**🌐 Accede aquí a la aplicación online:** [https://estudiosventorrillo.github.io/tactica-royale-hub/](https://estudiosventorrillo.github.io/tactica-royale-hub/)
+**🌐 Accede aquí a la aplicación online:** [https://fawlworks.github.io/tactica-royale-hub/](https://fawlworks.github.io/tactica-royale-hub/)
 
 ---
 
@@ -53,8 +53,8 @@ Este proyecto ha sido desarrollado con un enfoque **Vanilla & Performance First*
 ¿Te gusta el proyecto o necesitas un perfil creativo para tu próximo negocio? ¡Hablemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanluis-valverde/) 
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/estudiosventorrillo) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/estudiosventorrillo/?hl=es)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=flat&logo=behance&logoColor=white)](https://www.behance.net/fawlworks) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/fawlworks/?hl=es)
 
 ---
 
